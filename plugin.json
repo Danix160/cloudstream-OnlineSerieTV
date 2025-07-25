@@ -1,9 +1,23 @@
-{
-  "name": "OnlineSerieTV",
-  "description": "Plugin per guardare film e serie TV su OnlineSerieTV.com",
-  "version": "1.0.0",
-  "language": "it",
-  "type": "anime, movie, tv",
-  "authors": ["dogior"],
-  "mainClass": "it.dogior.hadEnough.OnlineSerieTV"
-}
+ {
+        "iconUrl": "https://onlineserietv.com/wp-content/uploads/2023/01/cropped-tv-1.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Danix160/cloudstream-OnlineSerieTV",
+        "fileSize": 20340,
+        "status": 0,
+        "language": "it",
+        "authors": [
+            "doGior"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon",
+            "Anime",
+            "Documentary"
+        ],
+        "version": 3,
+        "internalName": "OnlineSerieTV",
+        "description": "Movies and Shows from OnlineSerieTV",
+        "url": "https://raw.githubusercontent.com/Danix160/cloudstream-OnlineSerieTV/builds/OnlineSerieTV.cs3",
+        "name": "OnlineSerieTV"
+    }
