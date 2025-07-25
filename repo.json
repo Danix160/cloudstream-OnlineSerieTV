@@ -3,6 +3,6 @@
   "description": "prove tecniche",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Danix160/cloudstream-OnlineSerieTV/main/plugins.json"
+    "https://raw.githubusercontent.com/Danix160/cloudstream-OnlineSerieTV/plugins.json"
   ]
 }
