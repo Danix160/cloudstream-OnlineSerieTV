@@ -18,6 +18,6 @@
         "version": 3,
         "internalName": "OnlineSerieTV",
         "description": "Movies and Shows from OnlineSerieTV",
-        "url": "https://raw.githubusercontent.com/Danix160/cloudstream-OnlineSerieTV/builds/OnlineSerieTV.cs3",
+        "url": "https://raw.githubusercontent.com/Danix160/cloudstream-OnlineSerieTV/tree/master/builds/OnlineSerieTV.cs3",
         "name": "OnlineSerieTV"
     }
