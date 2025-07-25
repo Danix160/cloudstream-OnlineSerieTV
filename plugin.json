@@ -1,0 +1,9 @@
+{
+  "name": "OnlineSerieTV",
+  "description": "Plugin per guardare film e serie TV su OnlineSerieTV.com",
+  "version": "1.0.0",
+  "language": "it",
+  "type": "anime, movie, tv",
+  "authors": ["dogior"],
+  "mainClass": "it.dogior.hadEnough.OnlineSerieTV"
+}
