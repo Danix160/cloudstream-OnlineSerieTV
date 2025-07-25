@@ -1,4 +1,4 @@
-package it.dogior.hadEnough
+package it.danix160
 
 import android.util.Log
 import com.lagradost.cloudstream3.*
